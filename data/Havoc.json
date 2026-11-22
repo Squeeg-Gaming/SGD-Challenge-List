@@ -1,0 +1,18 @@
+{
+    "id": 1350515431,
+    "name": "Havoc",
+    "author": "KingGlitch1",
+    "creators": ["KingGlitch1, Loz_Botw_2"],
+    "verifier": "KingGlitch1",
+    "verification": "www.youtube.com/watch?v=ErEwcSwHAY4",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "www.youtube.com/watch?v=KwsZK4YTn3k", 
+            "percent": 100,
+            "hz": "30"
+        }
+    ]
+}
