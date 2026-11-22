@@ -1,0 +1,18 @@
+{
+    "id": 1246571403,
+    "name": "Phoenix A",
+    "author": "coderbeginner94",
+    "creators": ["coderbeginner94"],
+    "verifier": "unruffled",
+    "verification": "https://youtu.be/gOzVnhbpFDA",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "captainfireball",
+            "link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3944s",
+            "percent": 100,
+            "hz": "60"
+       }
+    ]
+}
